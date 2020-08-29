@@ -9,6 +9,8 @@ class Book
   end
   
   def genre=(GENRE)
+    
+  end
 
 
   def turn_page
